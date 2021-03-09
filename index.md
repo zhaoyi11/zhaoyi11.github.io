@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Github](https://github.com/zhaoyi11)  |  [Publications]()  |  [Blog](./blog/blog.md)  |  [Experience]()  |   [Contact]() 
+[Github](https://github.com/zhaoyi11) / [Publications]()  /  [Blog](./blog/blog.md)  /  [Experience]()  /  [Contact]() 
 
 
 
