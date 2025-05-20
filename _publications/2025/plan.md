@@ -1,6 +1,6 @@
 ---
 title:          "Symbolically-Guided Visual Plan Inference from Uncurated Video Data"
-date:           2025-51-13 00:01:00 +0800
+date:           2025-05-13 00:01:00 +0800
 selected:       true
 pub:            "Preprint"
 pub_date:       "2025"

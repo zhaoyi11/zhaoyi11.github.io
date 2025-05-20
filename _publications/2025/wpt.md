@@ -1,6 +1,6 @@
 ---
 title:          "Efficient Reinforcement Learning by Guiding Generalist World Models with Non-Curated Data"
-date:           2025-02-01 00:01:00 +0800
+date:           2025-05-20 00:01:00 +0800
 selected:       true
 pub:            "Preprint"
 pub_date:       "2025"
