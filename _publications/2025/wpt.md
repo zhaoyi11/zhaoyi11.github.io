@@ -1,6 +1,6 @@
 ---
 title:          "Efficient Reinforcement Learning by Guiding Generalist World Models with Non-Curated Data"
-date:           2025-05-18 00:01:00 +0800
+date:           2025-05-15 00:01:00 +0800
 selected:       true
 pub:            "Preprint"
 pub_date:       "2025"
@@ -19,7 +19,7 @@ authors:
   - Arno Solin
   - Juho Kannala
   - Joni Pajarinen
-# links:
+links:
    Paper: https://arxiv.org/abs/2502.19544
   # Code: https://github.com
   # Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o

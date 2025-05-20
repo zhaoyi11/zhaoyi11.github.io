@@ -13,8 +13,8 @@ authors:
   - Yi Zhao
   - Joni Pajarinen
   - Michael Muehlebach  
-# links:
-#   Paper: https://arxiv.org/abs/2311.01953
-  # Code: https://github.com
+links:
+  Paper: https://arxiv.org/abs/2410.01968
+  Code: https://sites.google.com/view/bmi-corl2024/home
   # Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o
 ---
