@@ -1,7 +1,7 @@
 ---
 title:          "iQRL--Implicitly Quantized Representations for Sample-efficient Reinforcement Learning"
 date:           2024-07-04 00:01:00 +0800
-selected:       false
+selected:       true
 pub:            "International Conference on Machine Learning, Workshop (ICML Workshop)"
 pub_date:       "2024"
 # abstract: >-
