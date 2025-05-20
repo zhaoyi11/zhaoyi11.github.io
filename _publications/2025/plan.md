@@ -18,7 +18,5 @@ authors:
   - Joni Pajarinen
 links:
   Paper: https://arxiv.org/abs/2505.08444
-  #Code: https://github.com/aidanscannell/dcmpc
-  #Website: https://www.aidanscannell.com/dcmpc/
 ---
 
