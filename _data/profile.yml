@@ -19,25 +19,28 @@ gscholar: OxdZ3CIAAAAJ
 # orcid: 0000-0000-0000-0000
 
 short_bio: > 
-  <p>I am a PhD candidate in the Robot Learning Group at Aalto University, advised by Prof. Joni Pajarinen and Juho Kannala. 
+  <p> I am a postdoctoral researcher in the Robot Learning Lab at Imperial College London, working with Prof. Edward Johns. 
+  Before joining Imperial, I was a PhD researcher in the Robot Learning Group at Aalto University, advised by Prof. Joni Pajarinen and Juho Kannala. 
   My research focuses on reinforcement learning, imitation learning, and planning, with an emphasis on learning versatile robot skills in a sample-efficient manner. 
   I have developed algorithms that have been applied to various domains, including locomotion, robotic manipulation, and dexterous robotic hands. 
 
   
-
   <p>I hold an MSc in Robotics from Aalto University, Finland, and a BEng from Huazhong University of Science and Technology, China.
-  In 2024, I was a visiting researcher at the Max Planck Institute for Intelligent Systems, where I collaborated with Prof. Dieter Büchler and Bernhard Schölkopf. 
-  There, we developed the first agent capable of autonomously learning to play Flight of the Bumblebee with bimanual dexterous robotic hands.
+  In 2024, I was a visiting researcher at the Max Planck Institute for Intelligent Systems, where I worked with Prof. Dieter Büchler and Bernhard Schölkopf. 
 
 portrait_url: /assets/images/photos/yi_img_square.jpg
   #portrait_caption: >-
   #Photo by Yuxin Hou in Iceland with volcano eruption in the background.
 
 experience:
+- name: Imperial College London, UK
+  logo: /assets/images/badges/IC_logo.png
+  position: Postdoctoral Researcher
+  date: Nov. 2025 - now
 - name: Aalto University, Finland
   logo: /assets/images/badges/aalto_logo.png
-  position: Doctoral Candidate
-  date: Feb. 2021 - now
+  position: Doctoral Researcher
+  date: Feb. 2021 - Oct. 2025
 
 - name: Max Planck Institute for Intelligent Systems, Germany
   logo: /assets/images/badges/mpi_logo.jpg
