@@ -1,9 +1,9 @@
 ---
 title:          "Efficient Reinforcement Learning by Guiding Generalist World Models with Non-Curated Data"
-date:           2025-05-15 00:01:00 +0800
+date:           2026-03-15 00:01:00 +0800
 selected:       true
-pub:            "Preprint"
-pub_date:       "2025"
+pub:            "International Conference on Learning Representations (ICLR)"
+pub_date:       "2026"
 # abstract: >-
 #   Photo by Dessy Dimcheva on Unsplash. Viverra nibh cras pulvinar mattis nunc sed. Quam quisque id diam vel quam elementum pulvinar etiam. Ac felis donec et odio pellentesque. Ligula ullamcorper malesuada proin libero nunc consequat interdum varius sit. A pellentesque sit amet porttitor eget. Magna fermentum iaculis eu non diam phasellus vestibulum lorem sed.
 
@@ -20,7 +20,7 @@ authors:
   - Juho Kannala
   - Joni Pajarinen
 links:
-   Paper: https://arxiv.org/abs/2502.19544
-  # Code: https://github.com
-  # Unsplash: https://unsplash.com/photos/orange-fruit-on-white-table-cloth-ISX_imp8t1o
+   Paper: https://openreview.net/forum?id=oBXfPyi47m
+   Code: https://github.com/zhaoyi11/ncrl
+   Website: https://zhaoyi11.github.io/ncrl-proj/
 ---
